@@ -1,0 +1,3 @@
+@echo off
+python C:\Users\Ashutosh\Desktop\CE491A\My_GUI-master\Land_Database.py %*
+pause
